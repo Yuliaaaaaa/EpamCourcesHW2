@@ -1,0 +1,4 @@
+javac -d C:\Users\User\Desktop\NewFolder -cp C:\Users\User\Desktop\NewFolder src\main\java\com\epam\Main.java
+jar -cvfm NewJAR.jar resources\META-INF\MANIFEST.MF com\epam org
+java -jar  NewJAR.jar
+ 
